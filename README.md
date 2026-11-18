@@ -72,7 +72,7 @@ Full dual-theme support with high-contrast dark surfaces for late-evening planni
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/cadence-student-planner.git
+git clone https://github.com/CanepaDamiano/cadence-student-planner.git
 cd cadence-student-planner
 
 # 2. Install dependencies
