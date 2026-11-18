@@ -1,0 +1,6 @@
+{
+  "name": "Cadence — Student Routine & Life-Balance Planner",
+  "description": "A modern, calm daily routine planner and time-blocking application for university students to balance academics, exercises, personal passions, and sleep without burnout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
